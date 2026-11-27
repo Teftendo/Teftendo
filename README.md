@@ -1,8 +1,10 @@
 
+
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:38bdf8&height=220&section=header&text=TEFTENDO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Python%20Developer&descAlignY=60&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0e7490,100:38bdf8&amp;height=220&amp;section=header&amp;text=TEFTENDO&amp;fontSize=65&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Embedded%20Systems%20%7C%20Python%20Developer&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Teftendo"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_FREELANCE-238636?style=for-the-badge"/>
